@@ -8,6 +8,8 @@ A simple **Command-Line Interface (CLI) Task Tracker** built with **Spring Boot*
 Track tasks with statuses: `todo`, `in-progress`, `done`, stored in a JSON file.
 
 ---
+Project url:
+https://github.com/arpan9932/task_tracker
 
 ## 📖 Table of Contents
 
